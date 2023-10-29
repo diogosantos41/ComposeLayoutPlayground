@@ -1,4 +1,4 @@
-package com.dscoding.composelayoutplayground.swipeablePages
+package com.dscoding.composelayoutplayground.features.swipeablePages
 
 import android.util.Log
 import androidx.compose.animation.core.animateFloatAsState

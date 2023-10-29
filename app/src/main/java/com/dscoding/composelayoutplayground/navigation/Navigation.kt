@@ -6,11 +6,11 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.dscoding.composelayoutplayground.categorizedList.CategorizedListScreen
-import com.dscoding.composelayoutplayground.contextDropMenu.ContextDropdownMenuScreen
-import com.dscoding.composelayoutplayground.searchList.SearchListScreen
-import com.dscoding.composelayoutplayground.staggeredGrid.StaggeredGridScreen
-import com.dscoding.composelayoutplayground.swipeablePages.SwipeablePagesScreen
+import com.dscoding.composelayoutplayground.features.categorizedList.CategorizedListScreen
+import com.dscoding.composelayoutplayground.features.contextDropMenu.ContextDropdownMenuScreen
+import com.dscoding.composelayoutplayground.features.searchList.SearchListScreen
+import com.dscoding.composelayoutplayground.features.staggeredGrid.StaggeredGridScreen
+import com.dscoding.composelayoutplayground.features.swipeablePages.SwipeablePagesScreen
 
 @Composable
 fun Navigation(navController: NavHostController, modifier: Modifier = Modifier) {

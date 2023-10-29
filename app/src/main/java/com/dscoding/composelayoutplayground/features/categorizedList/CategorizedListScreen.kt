@@ -1,4 +1,4 @@
-package com.dscoding.composelayoutplayground.categorizedList
+package com.dscoding.composelayoutplayground.features.categorizedList
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.background

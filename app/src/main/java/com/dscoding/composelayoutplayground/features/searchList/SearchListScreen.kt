@@ -1,4 +1,4 @@
-package com.dscoding.composelayoutplayground.searchList
+package com.dscoding.composelayoutplayground.features.searchList
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn

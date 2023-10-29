@@ -1,4 +1,4 @@
-package com.dscoding.composelayoutplayground.staggeredGrid
+package com.dscoding.composelayoutplayground.features.staggeredGrid
 
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.Dp

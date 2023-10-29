@@ -1,4 +1,4 @@
-package com.dscoding.composelayoutplayground.staggeredGrid
+package com.dscoding.composelayoutplayground.features.staggeredGrid
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
